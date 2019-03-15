@@ -1,3 +1,4 @@
+//stack implementation
 #include<stdio.h>
 int stack[50],ch,x,n,top,i;
 void push(void);
